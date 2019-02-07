@@ -1,4 +1,4 @@
-[{
+{
 	"job_title": "Annual sales tax feb-6-2019",
 	"manager": "Manager1",
 	"billing_model_type": "Staff hourly",
@@ -28,4 +28,4 @@
 	"invoice_sent": "Started",
 	"payment_received": "Pending",
 	"task_with_all_fields_required": "Created"
-}]
+}
