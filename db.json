@@ -1,31 +1,4 @@
-{
-	"job_title": "Annual sales tax feb-6-2019",
-	"manager": "Manager1",
-	"billing_model_type": "Staff hourly",
-	"repeat_exception": "Weekly on weekends",
-	"repeat": "One time",
-	"date_in": "27-02-2020",
-	"date_out": "28-02-2020",
-	"call_required": "Final review call required",
-	"job_status": "Created",
-	"budgeted_time": "350 days",
-	"turn_around_time": "400 days",
-	"additional_budget_price": "15000.00",
-	"due_date": "05-02-2019",
-	"date_extension": "02-02-2020",
-	"client_name": "Vignesh Padmkumar",
-	"client_email": "vignesh@helloinfinity.com",
-	"information_received": "Pending",
-	"receive_info_from_client": "Started",
-	"returns_prepared": "Created",
-	"prepare_amended_tax_return": "Created",
-	"reviewed": "Created",
-	"check_tax_return": "Created",
-	"assembled": "Started",
-	"process_tax_return": "Started",
-	"client_contacted_forms_sent": "Started",
-	"new_test_task": "Pending",
-	"invoice_sent": "Started",
-	"payment_received": "Pending",
-	"task_with_all_fields_required": "Created"
-}
+[{
+	"job_title": "Annual sales tax feb-6-2019"
+	
+}]
